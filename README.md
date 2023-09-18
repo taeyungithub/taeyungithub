@@ -4,6 +4,6 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyungithub&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyungithub&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyungithub&theme=default&show_icons=true)
