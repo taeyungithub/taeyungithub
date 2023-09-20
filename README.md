@@ -1,4 +1,3 @@
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyungithub&layout=compact&exclude_repo=repo1,repo2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyungithub&theme=default&show_icons=true)
